@@ -1,0 +1,24 @@
+{
+    "properties": {
+        "name": "Foo",
+        "id": "ambo1",
+        "project": "foo",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "image/UrlToCanvas_bcosa": {
+            "component": "image/UrlToCanvas",
+            "metadata": {
+                "label": "image/UrlToCanvas",
+                "x": 324,
+                "y": 72
+            }
+        }
+    },
+    "connections": []
+}
