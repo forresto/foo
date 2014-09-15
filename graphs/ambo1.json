@@ -3,7 +3,7 @@
         "name": "ambo1",
         "environment": {
             "type": "noflo-browser",
-            "content": ""
+            "content": "<canvas id='canvas' width='500' height='500'></canvas>"
         }
     },
     "inports": {},
