@@ -1,0 +1,35 @@
+{
+    "properties": {
+        "name": "ambo1",
+        "environment": {
+            "type": "noflo-browser",
+            "content": ""
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "dom/GetElement_qb6m4": {
+            "component": "dom/GetElement",
+            "metadata": {
+                "label": "dom/GetElement",
+                "x": 180,
+                "y": 360,
+                "width": 72,
+                "height": 72
+            }
+        },
+        "canvas/Draw_zruef": {
+            "component": "canvas/Draw",
+            "metadata": {
+                "label": "canvas/Draw",
+                "x": 360,
+                "y": 360,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}
