@@ -18,6 +18,16 @@
                 "width": 72,
                 "height": 72
             }
+        },
+        "new-project/new2_vz8gw": {
+            "component": "new-project/new2",
+            "metadata": {
+                "label": "new-project/new2",
+                "x": 288,
+                "y": 288,
+                "width": 72,
+                "height": 72
+            }
         }
     },
     "connections": []

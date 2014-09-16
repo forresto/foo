@@ -1,0 +1,13 @@
+{
+    "properties": {
+        "name": "new-graph",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
