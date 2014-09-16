@@ -1,0 +1,24 @@
+{
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "new-project/new-graph_x6m1u": {
+            "component": "new-project/new-graph",
+            "metadata": {
+                "label": "new-project/new-graph",
+                "x": 288,
+                "y": 180,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}
